@@ -33,4 +33,16 @@ img{
     margin-left: auto;
     margin-right: auto;   
 }
+div{
+    height: 125px;
+    padding: 20px;
+    border-color:#FFFFFF;
+    border: 3px;
+    border-style: solid;
+}
+
+.intro{
+    border-radius: 15px;
+    margin-top: 15px;
+}
 
